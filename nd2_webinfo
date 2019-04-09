@@ -1,0 +1,8 @@
+url=https://shop.nordstrom.com/
+login_text=Sign
+user_text=Hi
+logout_text=Out
+email=username
+pwd=password
+button=button.Tg2rV=nth-child(5)
+error_selector=._2ub75b > p:nth-child(1) > span:nth-child(1) > b:nth-child(1)
